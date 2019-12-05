@@ -1,2 +1,2 @@
 # gci-helloworld
-GCI TASK : Setup Github and a Github account
+Google Code-In TASK : Setup Git and a Github account
